@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first-project/first-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ono-tebe-nado" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ono-tebe-nado/learn_branches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/posmotri_v_okno" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/second-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slozhno-sosredotochitsya-fd" vcs="Git" />
+  </component>
+</project>
